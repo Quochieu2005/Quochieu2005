@@ -16,37 +16,28 @@
 
 ### 💻 About Me
 
-* 🎯 Tôi là sinh viên ngành **Công nghệ thông tin tại PTIT**
+* 🎯 Sinh viên ngành **Công nghệ thông tin (PTIT)**
 * 💼 Có kinh nghiệm thực tập **Backend Developer (Laravel)**
 * ⚡ Đã làm việc với **RESTful API, MySQL, Cloud Storage (S3)**
-* 🚀 Mục tiêu trở thành **Backend Developer chuyên nghiệp**
+* 🚀 Định hướng phát triển **Backend Developer chuyên nghiệp**
 
 ---
 
-### 🧑‍💼 Experience
+### 🧠 What I’m Focused On
 
-**Backend Developer Intern – Tidadigi Company (06/2025 – 12/2025)**  
-- Phát triển backend bằng **PHP (Laravel)**  
-- Xây dựng và phát triển **RESTful API**  
-- Làm việc với **MySQL**  
-- Tích hợp **S3 Storage (upload file)**  
-- Debug và cải thiện hệ thống  
-- Làm việc nhóm và phối hợp với các thành viên  
+- Xây dựng và tối ưu **Backend hệ thống web**
+- Thiết kế và phát triển **RESTful API**
+- Làm việc với **Database (MySQL, SQL Server, SQLite)**
+- Hiểu và áp dụng mô hình **MVC (Laravel)**
 
 ---
 
-### 🚀 Projects
+### 📚 Currently Learning
 
-**Web Service Platform – https://pwsdata.vn/**  
-- Dự án nhóm (5 thành viên)  
-- Vai trò: **Backend Developer (Support)**  
-
-**Công việc đã làm:**  
-- Xây dựng các chức năng CRUD (user, sản phẩm, đơn hàng)  
-- Phát triển API cơ bản  
-- Hỗ trợ backend với **Laravel**  
-- Hỗ trợ frontend và cải thiện UI  
-- Testing và debug  
+- System Design cơ bản  
+- Cloud (AWS / GCP)  
+- Docker & DevOps cơ bản  
+- Clean Code & Best Practices  
 
 ---
 
@@ -60,6 +51,15 @@
 
 ---
 
+### ⚡ Strengths
+
+- 🤝 Khả năng làm việc nhóm tốt  
+- 📌 Tinh thần trách nhiệm cao  
+- 📈 Chủ động học hỏi công nghệ mới  
+- 🧩 Tư duy giải quyết vấn đề  
+
+---
+
 ### 📊 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quochieu2005&theme=react-dark&hide_border=true&area=true" />
@@ -70,12 +70,6 @@
 ### 📈 GitHub Analytics & Streak
 
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Quochieu2005&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-  </a>
-  
-  <br>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quochieu2005&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   
